@@ -1,5 +1,5 @@
 # CPTS437-Fantasy-Football-Classification-Group12
-Colab Notebook [Link](https://colab.research.google.com/drive/1Vqf_FVPR7pMdL7GFHQM7JQBcMSxizPSK?usp=sharing)
+Colab Notebook [Link](https://colab.research.google.com/drive/1NjRn_6YRNZozrcdRdE4mDso0luGEWckT?usp=share_link)
 
 Demo Video Link
 
