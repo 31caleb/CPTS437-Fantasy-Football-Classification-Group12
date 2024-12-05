@@ -5,6 +5,8 @@ Demo Video Links:
   Youtube [Link](https://youtu.be/MuFgC27BalA), 
   Google Drive [Link](https://drive.google.com/file/d/1mg1defVoWR5eoaxDtLya8yJ4qPUtpxml/view?usp=share_link)
 
+  (Code Has been slightly changed since recording of demo video in order to test models over 5 different split states and calculate averages, but code should be run in the same way as demo video)
+
 Presentation [Link](https://drive.google.com/file/d/1Cy3PXIzTpbqAqc81NfZxf08p0b2ilo5W/view?usp=share_link)
 
 Written Report [Link](https://drive.google.com/file/d/1F_cZa5mr4jcOOKYP4sKW5-3xbBcrp0MO/view?usp=share_link)
